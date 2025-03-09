@@ -16,7 +16,7 @@ Before you begin, ensure you have the following:
 
 ## Installation and Setup Steps
 
-### <p align="">Step1:Launch an AWS EC2 Instance</p>>
+### <p align="">Step1:Launch an AWS EC2 Instance</p>
 
 1. Log in to AWS Management Console.
 
@@ -112,9 +112,12 @@ sudo systemctl start fail2ban
 ```
 
 ### <p align="">Step10:Monitor Server Performance</p>
+- To Monitor Server Performance use below commands
 
+```bash
 - top
-- htop  # Install with 'sudo yum install htop'
+- htop    # Install with 'sudo yum install htop'
+```
 
 ## Conclusion
 
